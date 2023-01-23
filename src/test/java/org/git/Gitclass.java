@@ -13,4 +13,17 @@ private void class2() {
 private void class3() {
 	System.out.println(3);
 }
+private void task4() {
+	System.out.println(4);
+
+}
+private void task5() {
+	System.out.println(5);
+
+}
+private void task6() {
+	System.out.println(6
+			);
+}
+
 }
